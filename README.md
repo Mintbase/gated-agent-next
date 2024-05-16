@@ -1,6 +1,6 @@
-# Ref Finance Mintbase Wallet Plugin
+# NFT Gated Agent
 
-![Corte de vídeo 2024-05-08 15h (2)](https://github.com/Mintbase/ref-finance-agent-next/assets/5553483/74d91db8-d11d-4e62-9fc9-423ee2c3abc3)
+Video soon
 
 ## Getting Started
 
