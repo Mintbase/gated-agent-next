@@ -1,6 +1,6 @@
 # NFT Gated Agent
 
-Video soon
+https://github.com/Mintbase/gated-agent-next/assets/5553483/2503d559-76ec-4ec6-b3b8-a705a42c6db1
 
 ## Getting Started
 
